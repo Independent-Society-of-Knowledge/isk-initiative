@@ -3,11 +3,24 @@
 <buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
     <variables>
-        <primary-color>#5111C4</primary-color>
+        <primary-color>#4f008b</primary-color>
         <custom-favicons>Logo.svg</custom-favicons>
         <header-logo>Logo.svg</header-logo>
-        <product-web-url>https://help.example.com</product-web-url>
+        <product-web-url>https://iskportal.com</product-web-url>
         <resizable-sidebar>true</resizable-sidebar>
         <noindex-content>false</noindex-content>
+        <custom-css>custom.css</custom-css>
+        <offline-docs>true</offline-docs>
     </variables>
+    <footer>
+        <social type="linkedin" href="https://www.linkedin.com/company/independent-society-of-knowledge/"/>
+        <social type="twitter" href="x.com/iskportal"/>
+        <social type="email" href="mailto:contact@iskportal.com"/>
+        <social type="youtube" href="https://youtube.com/@iskportal"/>
+        <copyright>Independent Society of Knowledge</copyright>
+        <link href="https://iskportal.com">Web-page</link>
+        <link href="https://github.com/independent-society-of-knowledge">GitHub</link>
+        <link href="https://reddit.com/r/iskportal_reddit">Reddit</link>
+        <link href="https://t.me/iskportal">Telegram Log</link>
+    </footer>
 </buildprofiles>

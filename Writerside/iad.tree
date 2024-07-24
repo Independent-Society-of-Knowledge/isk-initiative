@@ -4,7 +4,12 @@
 
 <instance-profile id="iad"
                  name="ISK Initiative"
-                 start-page="empty-md-topic.md">
+                 start-page="Overview.md">
 
-    <toc-element topic="empty-md-topic.md"/>
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="Foundations.md">
+        <toc-element topic="Decentralization.md"/>
+        <toc-element topic="Collaboration.md"/>
+        <toc-element topic="Open-Access.md"/>
+    </toc-element>
 </instance-profile>
