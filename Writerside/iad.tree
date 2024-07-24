@@ -8,8 +8,101 @@
 
     <toc-element topic="Overview.md"/>
     <toc-element topic="Foundations.md">
+        <toc-element topic="True-Decentralized-Academia.md"/>
         <toc-element topic="Decentralization.md"/>
         <toc-element topic="Collaboration.md"/>
         <toc-element topic="Open-Access.md"/>
+    </toc-element>
+    <toc-element topic="Membership-Policies.md">
+        <toc-element topic="Collaborators.md"/>
+        <toc-element topic="Official-Members.md"/>
+        <toc-element topic="Executive-Members.md"/>
+        <toc-element topic="Eligibility-Criteria.md">
+            <toc-element topic="Application-Process.md"/>
+            <toc-element topic="Evaluation-Criteria.md"/>
+        </toc-element>
+        <toc-element topic="Membership-benefits.md">
+            <toc-element topic="Access-to-Resources.md"/>
+            <toc-element topic="Voting-Rights.md"/>
+        </toc-element>
+        <toc-element topic="Community-Engagement.md">
+            <toc-element topic="Collaboration-with-Other-Organizations.md"/>
+            <toc-element topic="Awareness-Campaigns.md"/>
+            <toc-element topic="Publich-Outreach.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Projects-and-Initiatives.md">
+        <toc-element topic="Initiatives.md"/>
+        <toc-element topic="General-Projects.md"/>
+        <toc-element topic="Project-Documentation.md">
+            <toc-element topic="Introduction.md">
+                <toc-element topic="Purpose.md"/>
+                <toc-element topic="Audience.md"/>
+                <toc-element topic="Goals.md"/>
+            </toc-element>
+            <toc-element topic="Documentation-Types.md">
+                <toc-element topic="Technical-Documentation.md">
+                    <toc-element topic="Code-Documentation.md"/>
+                    <toc-element topic="System-Architecture.md"/>
+                </toc-element>
+                <toc-element topic="User-Documentation.md">
+                    <toc-element topic="User-Manuals.md"/>
+                    <toc-element topic="Support-and-FAQs.md"/>
+                </toc-element>
+                <toc-element topic="Project-Management-Documentation.md">
+                    <toc-element topic="Project-Plan.md"/>
+                    <toc-element topic="Meeting-Notes.md"/>
+                    <toc-element topic="Progress-Reports.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element topic="Documentation-Standards.md">
+                <toc-element topic="Formatting-Guidelines.md"/>
+                <toc-element topic="Terminology.md"/>
+                <toc-element topic="Style-Guides.md"/>
+            </toc-element>
+            <toc-element topic="Review-and-Maintenance.md">
+                <toc-element topic="Peer-Review.md"/>
+                <toc-element topic="Update-Procedures.md"/>
+                <toc-element topic="Feedback-Mechanism.md"/>
+            </toc-element>
+            <toc-element topic="Distribution-and-Accessibillity.md">
+                <toc-element topic="Online-Documentation-Platforms.md"/>
+                <toc-element topic="Physical-Versions.md"/>
+                <toc-element topic="Access-Control.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Educational-Program.md">
+        <toc-element topic="Seminars-and-Workshops.md"/>
+        <toc-element topic="Online-Courses.md"/>
+    </toc-element>
+    <toc-element topic="Collaboration-Platforms.md">
+        <toc-element topic="Online-Platforms.md">
+            <toc-element topic="Social-Media.md"/>
+            <toc-element topic="Workspaces.md"/>
+        </toc-element>
+        <toc-element topic="Online-Meetings.md">
+            <toc-element topic="Annual-Meeting.md"/>
+            <toc-element topic="Project-Initiative.md"/>
+            <toc-element topic="Research-Conference.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Funding-and-Resources.md">
+        <toc-element topic="Funding-Sources.md">
+            <toc-element topic="Support-as-Service.md"/>
+            <toc-element topic="Subscription-Based-Products.md"/>
+            <toc-element topic="Donations.md"/>
+            <toc-element topic="Grants.md"/>
+            <toc-element topic="Sponsorships.md"/>
+        </toc-element>
+        <toc-element topic="Resource-Allocation.md">
+            <toc-element topic="Budgeting.md"/>
+            <toc-element topic="Resource-Management.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Future-Vision-and-Goals.md">
+        <toc-element topic="2026-Milestones.md"/>
+        <toc-element topic="2025-Milestones.md"/>
+        <toc-element topic="2024-Milestones.md"/>
     </toc-element>
 </instance-profile>

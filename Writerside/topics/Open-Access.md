@@ -1,4 +1,4 @@
-# Open Access
+# Define Open Access
 
 At the Independent Society of Knowledge (ISK), we believe that knowledge should be accessible to all and that everyone should have the opportunity to contribute to it. Our vision of open-access challenges traditional academic paradigms and seeks to create a more inclusive and equitable environment for knowledge creation and dissemination.
 
@@ -26,6 +26,6 @@ While we advocate for the free dissemination of knowledge, we also emphasize the
 
 ## Transforming Knowledge Dissemination
 
-The ISK approach to open-access represents a transformative shift in how knowledge is shared and valued. By prioritizing contributions over conventional academic metrics, we create a more dynamic and inclusive environment for scientific and intellectual growth. Our commitment to universal access and respect for contributor rights ensures that knowledge remains a collective asset, enriched by diverse voices and perspectives.
+ISK approach to open-access represents a transformative shift in how knowledge is shared and valued. By prioritizing contributions over conventional academic metrics, we create a more dynamic and inclusive environment for scientific and intellectual growth. Our commitment to universal access and respect for contributor rights ensures that knowledge remains a collective asset, enriched by diverse voices and perspectives.
 
-In summary, the Independent Society of Knowledge envisions open-access as a way to democratize the acquisition and contribution of knowledge. By challenging traditional academic paradigms and embracing a more inclusive and values-driven approach, ISK seeks to create a global community where knowledge is freely accessible and contributions are recognized and respected. This vision of open-access not only promotes the free exchange of ideas but also fosters a collaborative and innovative spirit in the pursuit of scientific and intellectual advancement.
+The Independent Society of Knowledge envisions open-access as a way to democratize the acquisition and contribution of knowledge. By challenging traditional academic paradigms and embracing a more inclusive and values-driven approach, ISK seeks to create a global community where knowledge is freely accessible and contributions are recognized and respected. This vision of open-access not only promotes the free exchange of ideas but also fosters a collaborative and innovative spirit in the pursuit of scientific and intellectual advancement.

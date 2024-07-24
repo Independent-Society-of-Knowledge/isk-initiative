@@ -12,20 +12,18 @@
 
 
 :root {
-    --wh-color-bg-main: rgb(255, 198, 227);
+    --wh-color-bg-main: #f9f9f9;
+    --wh-color-black: #121212 !important;
+    --wh-color-white: #fafafa !important;
+    --rs-color-gray-90: #000 !important;
+
+    p {
+    text-align: justify !important;
+    }
+
 }
 
-
-/* make the border for images transparent with a 30px radius */
-.article__img {
-    border-radius: 30px !important;
-    border: none;
-}
 
 * {
 font-family: "IBM Plex Sans" !important
-}
-.article__title {
-font-weight: 700;
-
 }

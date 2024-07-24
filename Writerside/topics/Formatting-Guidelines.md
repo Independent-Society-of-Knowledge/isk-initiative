@@ -1,0 +1,3 @@
+# Formatting Guidelines
+
+Start typing here...
