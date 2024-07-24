@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+    <variables>
+        <primary-color>#5111C4</primary-color>
+        <custom-favicons>Logo.svg</custom-favicons>
+        <header-logo>Logo.svg</header-logo>
+        <product-web-url>https://help.example.com</product-web-url>
+        <resizable-sidebar>true</resizable-sidebar>
+        <noindex-content>false</noindex-content>
+    </variables>
+</buildprofiles>
