@@ -1,3 +1,3 @@
 # Project Documentation
 
-Start typing here...
+For each project within ISK, comprehensive documentation is essential at every stage—initiation, progress, and completion/maintenance. This section outlines the necessary requirements for these documents, ensuring that each project is thoroughly recorded and managed. Detailed descriptions of what each document should include, along with guidelines for the members responsible for creating and maintaining these records, will be provided to ensure consistency, transparency, and effective project management.
