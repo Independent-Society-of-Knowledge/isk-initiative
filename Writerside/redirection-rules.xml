@@ -10,4 +10,28 @@
         <description>Created after removal of "Branding" from ISK Initiative</description>
         <accepts>Branding.html</accepts>
     </rule>
+    <rule id="5ac4c850">
+        <description>Created after removal of "Access to Resources" from ISK Initiative</description>
+        <accepts>Access-to-Resources.html</accepts>
+    </rule>
+    <rule id="58fa2d40">
+        <description>Created after removal of "Voting Rights" from ISK Initiative</description>
+        <accepts>Voting-Rights.html</accepts>
+    </rule>
+    <rule id="8f25f0e">
+        <description>Created after removal of "Membership Benefits" from ISK Initiative</description>
+        <accepts>Membership-benefits.html</accepts>
+    </rule>
+    <rule id="6a2f2138">
+        <description>Created after removal of "Purpose" from ISK Initiative</description>
+        <accepts>Purpose.html</accepts>
+    </rule>
+    <rule id="54e7d34c">
+        <description>Created after removal of "Audience" from ISK Initiative</description>
+        <accepts>Audience.html</accepts>
+    </rule>
+    <rule id="788e7307">
+        <description>Created after removal of "Goals" from ISK Initiative</description>
+        <accepts>Goals.html</accepts>
+    </rule>
 </rules>
