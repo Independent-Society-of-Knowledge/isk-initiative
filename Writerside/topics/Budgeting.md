@@ -1,3 +1,0 @@
-# Budgeting
-
-Start typing here...

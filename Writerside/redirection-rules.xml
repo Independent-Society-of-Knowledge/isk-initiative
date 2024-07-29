@@ -34,4 +34,188 @@
         <description>Created after removal of "Goals" from ISK Initiative</description>
         <accepts>Goals.html</accepts>
     </rule>
+    <rule id="745eb925">
+        <description>Created after removal of "Seminars and Workshops" from ISK Initiative</description>
+        <accepts>Seminars-and-Workshops.html</accepts>
+    </rule>
+    <rule id="59fc5e35">
+        <description>Created after removal of "Online Courses" from ISK Initiative</description>
+        <accepts>Online-Courses.html</accepts>
+    </rule>
+    <rule id="6d9ccf33">
+        <description>Created after removal of "Online Platforms" from ISK Initiative</description>
+        <accepts>Online-Platforms.html</accepts>
+    </rule>
+    <rule id="d226813">
+        <description>Created after removal of "Social Media" from ISK Initiative</description>
+        <accepts>Social-Media.html</accepts>
+    </rule>
+    <rule id="4dd54897">
+        <description>Created after removal of "Workspaces" from ISK Initiative</description>
+        <accepts>Workspaces.html</accepts>
+    </rule>
+    <rule id="2b1d73e1">
+        <description>Created after removal of "Online Meetings" from ISK Initiative</description>
+        <accepts>Online-Meetings.html</accepts>
+    </rule>
+    <rule id="5e9ef23d">
+        <description>Created after removal of "Annual Meeting" from ISK Initiative</description>
+        <accepts>Annual-Meeting.html</accepts>
+    </rule>
+    <rule id="2d8bca60">
+        <description>Created after removal of "Project Initiative" from ISK Initiative</description>
+        <accepts>Project-Initiative.html</accepts>
+    </rule>
+    <rule id="17775447">
+        <description>Created after removal of "Research Conference" from ISK Initiative</description>
+        <accepts>Research-Conference.html</accepts>
+    </rule>
+    <rule id="4ca788c4">
+        <description>Created after removal of "Social Media" from ISK Initiative</description>
+        <accepts>Social-Media.html</accepts>
+    </rule>
+    <rule id="321a00f8">
+        <description>Created after removal of "Workspaces" from ISK Initiative</description>
+        <accepts>Workspaces.html</accepts>
+    </rule>
+    <rule id="11cb899a">
+        <description>Created after removal of "Annual Meeting" from ISK Initiative</description>
+        <accepts>Annual-Meeting.html</accepts>
+    </rule>
+    <rule id="3c142ad">
+        <description>Created after removal of "Project Initiative" from ISK Initiative</description>
+        <accepts>Project-Initiative.html</accepts>
+    </rule>
+    <rule id="6fa8e401">
+        <description>Created after removal of "Research Conference" from ISK Initiative</description>
+        <accepts>Research-Conference.html</accepts>
+    </rule>
+    <rule id="6f6a06e0">
+        <description>Created after removal of "Collaboration Platforms" from ISK Initiative</description>
+        <accepts>Collaboration-Platforms.html</accepts>
+    </rule>
+    <rule id="36d0f2cc">
+        <description>Created after removal of "Online Platforms" from ISK Initiative</description>
+        <accepts>Online-Platforms.html</accepts>
+    </rule>
+    <rule id="5f75996">
+        <description>Created after removal of "Social Media" from ISK Initiative</description>
+        <accepts>Social-Media.html</accepts>
+    </rule>
+    <rule id="650b5db6">
+        <description>Created after removal of "Workspaces" from ISK Initiative</description>
+        <accepts>Workspaces.html</accepts>
+    </rule>
+    <rule id="1063c759">
+        <description>Created after removal of "Online Meetings" from ISK Initiative</description>
+        <accepts>Online-Meetings.html</accepts>
+    </rule>
+    <rule id="3f73ad58">
+        <description>Created after removal of "Annual Meeting" from ISK Initiative</description>
+        <accepts>Annual-Meeting.html</accepts>
+    </rule>
+    <rule id="fa7d3c6">
+        <description>Created after removal of "Project Initiative" from ISK Initiative</description>
+        <accepts>Project-Initiative.html</accepts>
+    </rule>
+    <rule id="1ee2cbf8">
+        <description>Created after removal of "Research Conference" from ISK Initiative</description>
+        <accepts>Research-Conference.html</accepts>
+    </rule>
+    <rule id="33bf2dcf">
+        <description>Created after removal of "Meeting Notes" from ISK Initiative</description>
+        <accepts>Meeting-Notes.html</accepts>
+    </rule>
+    <rule id="c80dd79">
+        <description>Created after removal of "Code Documentation" from ISK Initiative</description>
+        <accepts>Code-Documentation.html</accepts>
+    </rule>
+    <rule id="dff1d5b">
+        <description>Created after removal of "System Architecture" from ISK Initiative</description>
+        <accepts>System-Architecture.html</accepts>
+    </rule>
+    <rule id="1a60fc56">
+        <description>Created after removal of "User Manuals" from ISK Initiative</description>
+        <accepts>User-Manuals.html</accepts>
+    </rule>
+    <rule id="769e0066">
+        <description>Created after removal of "Support and FAQs" from ISK Initiative</description>
+        <accepts>Support-and-FAQs.html</accepts>
+    </rule>
+    <rule id="3b7b2fb9">
+        <description>Created after removal of "User Documentation" from ISK Initiative</description>
+        <accepts>User-Documentation.html</accepts>
+    </rule>
+    <rule id="7d0c1015">
+        <description>Created after removal of "Formatting Guidelines" from ISK Initiative</description>
+        <accepts>Formatting-Guidelines.html</accepts>
+    </rule>
+    <rule id="6b7b3bdb">
+        <description>Created after removal of "Terminology" from ISK Initiative</description>
+        <accepts>Terminology.html</accepts>
+    </rule>
+    <rule id="13b7dae1">
+        <description>Created after removal of "Style Guides" from ISK Initiative</description>
+        <accepts>Style-Guides.html</accepts>
+    </rule>
+    <rule id="30e29c06">
+        <description>Created after removal of "Documentation Standards" from ISK Initiative</description>
+        <accepts>Documentation-Standards.html</accepts>
+    </rule>
+    <rule id="3d067f66">
+        <description>Created after removal of "Peer Review" from ISK Initiative</description>
+        <accepts>Peer-Review.html</accepts>
+    </rule>
+    <rule id="56206f3d">
+        <description>Created after removal of "Update Procedures" from ISK Initiative</description>
+        <accepts>Update-Procedures.html</accepts>
+    </rule>
+    <rule id="450f0cbf">
+        <description>Created after removal of "Feedback Mechanism" from ISK Initiative</description>
+        <accepts>Feedback-Mechanism.html</accepts>
+    </rule>
+    <rule id="521161a2">
+        <description>Created after removal of "Review and Maintenance" from ISK Initiative</description>
+        <accepts>Review-and-Maintenance.html</accepts>
+    </rule>
+    <rule id="31139be2">
+        <description>Created after removal of "Online Documentation Platforms" from ISK Initiative</description>
+        <accepts>Online-Documentation-Platforms.html</accepts>
+    </rule>
+    <rule id="259f9f85">
+        <description>Created after removal of "Physical Versions" from ISK Initiative</description>
+        <accepts>Physical-Versions.html</accepts>
+    </rule>
+    <rule id="78b79fda">
+        <description>Created after removal of "Access Control" from ISK Initiative</description>
+        <accepts>Access-Control.html</accepts>
+    </rule>
+    <rule id="68895810">
+        <description>Created after removal of "Distribution and Accessibility" from ISK Initiative</description>
+        <accepts>Distribution-and-Accessibillity.html</accepts>
+    </rule>
+    <rule id="50aa01b4">
+        <description>Created after removal of "Budgeting" from ISK Initiative</description>
+        <accepts>Budgeting.html</accepts>
+    </rule>
+    <rule id="7e9f594a">
+        <description>Created after removal of "Resource Management" from ISK Initiative</description>
+        <accepts>Resource-Management.html</accepts>
+    </rule>
+    <rule id="14191d7">
+        <description>Created after removal of "2026 - Milestones" from ISK Initiative</description>
+        <accepts>2026-Milestones.html</accepts>
+    </rule>
+    <rule id="73b2f6c0">
+        <description>Created after removal of "2025 - Milestones" from ISK Initiative</description>
+        <accepts>2025-Milestones.html</accepts>
+    </rule>
+    <rule id="34a0c412">
+        <description>Created after removal of "2024 - Milestones" from ISK Initiative</description>
+        <accepts>2024-Milestones.html</accepts>
+    </rule>
+    <rule id="4fbc0359">
+        <description>Created after removal of "Future Vision and Goals" from ISK Initiative</description>
+        <accepts>Future-Vision-and-Goals.html</accepts>
+    </rule>
 </rules>

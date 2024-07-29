@@ -1,3 +1,0 @@
-# Online Courses
-
-Start typing here...

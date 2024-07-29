@@ -1,3 +1,0 @@
-# Resource Management
-
-Start typing here...

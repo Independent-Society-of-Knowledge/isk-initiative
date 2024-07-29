@@ -1,3 +1,0 @@
-# Seminars and Workshops
-
-Start typing here...

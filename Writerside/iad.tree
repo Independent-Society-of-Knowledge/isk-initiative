@@ -36,49 +36,20 @@
             <toc-element topic="Documentation-Types.md">
                 <toc-element topic="Project-Management-Documentation.md">
                     <toc-element topic="Project-Plan.md"/>
-                    <toc-element topic="Meeting-Notes.md"/>
                     <toc-element topic="Progress-Reports.md"/>
                 </toc-element>
                 <toc-element topic="Technical-Documentation.md">
-                    <toc-element topic="Code-Documentation.md"/>
-                    <toc-element topic="System-Architecture.md"/>
+                    <toc-element topic="Educational-Projects-Technical-Documentation.md"/>
+                    <toc-element topic="Research-Projects-Technical-Documentation.md"/>
+                    <toc-element topic="Software-Projects-Technical-Documentation.md"/>
                 </toc-element>
-                <toc-element topic="User-Documentation.md">
-                    <toc-element topic="User-Manuals.md"/>
-                    <toc-element topic="Support-and-FAQs.md"/>
-                </toc-element>
-            </toc-element>
-            <toc-element topic="Documentation-Standards.md">
-                <toc-element topic="Formatting-Guidelines.md"/>
-                <toc-element topic="Terminology.md"/>
-                <toc-element topic="Style-Guides.md"/>
-            </toc-element>
-            <toc-element topic="Review-and-Maintenance.md">
-                <toc-element topic="Peer-Review.md"/>
-                <toc-element topic="Update-Procedures.md"/>
-                <toc-element topic="Feedback-Mechanism.md"/>
-            </toc-element>
-            <toc-element topic="Distribution-and-Accessibillity.md">
-                <toc-element topic="Online-Documentation-Platforms.md"/>
-                <toc-element topic="Physical-Versions.md"/>
-                <toc-element topic="Access-Control.md"/>
             </toc-element>
         </toc-element>
     </toc-element>
     <toc-element topic="Educational-Program.md">
-        <toc-element topic="Seminars-and-Workshops.md"/>
-        <toc-element topic="Online-Courses.md"/>
-    </toc-element>
-    <toc-element topic="Collaboration-Platforms.md">
-        <toc-element topic="Online-Platforms.md">
-            <toc-element topic="Social-Media.md"/>
-            <toc-element topic="Workspaces.md"/>
-        </toc-element>
-        <toc-element topic="Online-Meetings.md">
-            <toc-element topic="Annual-Meeting.md"/>
-            <toc-element topic="Project-Initiative.md"/>
-            <toc-element topic="Research-Conference.md"/>
-        </toc-element>
+        <toc-element topic="Edu-Framework.md"/>
+        <toc-element topic="Local-Seminars-and-Workshops.md"/>
+        <toc-element topic="Online-Programs.md"/>
     </toc-element>
     <toc-element topic="Funding-and-Resources.md">
         <toc-element topic="Funding-Sources.md">
@@ -89,13 +60,13 @@
             <toc-element topic="Sponsorships.md"/>
         </toc-element>
         <toc-element topic="Resource-Allocation.md">
-            <toc-element topic="Budgeting.md"/>
-            <toc-element topic="Resource-Management.md"/>
         </toc-element>
     </toc-element>
-    <toc-element topic="Future-Vision-and-Goals.md">
-        <toc-element topic="2026-Milestones.md"/>
-        <toc-element topic="2025-Milestones.md"/>
-        <toc-element topic="2024-Milestones.md"/>
+    <toc-element topic="Annual-Reports.md">
+        <toc-element topic="General-Annual-Report.md"/>
+        <toc-element topic="Annual-Contribution-Report-ACR.md"/>
+        <toc-element topic="Mission-and-Vission-Annual-Reports.md"/>
+        <toc-element topic="Financial-Report.md"/>
+        <toc-element topic="Projects-and-Inititatives-Annual-Report-PIAR.md"/>
     </toc-element>
 </instance-profile>
