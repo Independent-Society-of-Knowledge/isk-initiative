@@ -218,4 +218,8 @@
         <description>Created after removal of "Future Vision and Goals" from ISK Initiative</description>
         <accepts>Future-Vision-and-Goals.html</accepts>
     </rule>
+    <rule id="63afe955">
+        <description>Created after removal of "Empty XML Topic" from ISK Branding</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
 </rules>

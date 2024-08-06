@@ -23,4 +23,14 @@
         <link href="https://reddit.com/r/iskportal_reddit">Reddit</link>
         <link href="https://t.me/iskportal">Telegram Log</link>
     </footer>
+    <build-profile instance="brand">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="init">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
 </buildprofiles>
