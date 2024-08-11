@@ -69,10 +69,17 @@ Our grayscale palette complements the primary purple tones, embodying our commit
 
 
 - **Black No.1 (#000000)**: Pure black, used for text and critical graphic elements.
+
 ![black-color.png](black-color.png)
+
+
 - **Black No.2 (#060606)**: A slightly softer black, ideal for large dark areas without the harshness of pure black.
+
 ![Black-second-color.png](Black-second-color.png)
+
+
 - **Night (#0C0C0C)**: A deep charcoal, perfect for creating depth in designs.
+
 ![Night-color.png](Night-color.png)
 
 #### Eerie Black Series
