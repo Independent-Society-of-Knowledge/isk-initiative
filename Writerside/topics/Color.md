@@ -54,6 +54,13 @@ Named after the beautiful flowering vine, this light purple can symbolize the gr
 
 These two mauve shades provide subtle, sophisticated options for backgrounds or text. They can help create a sense of calm and thoughtfulness in our designs.
 
+## Usage Guidelines
+
+- Use deeper purples for primary elements and to convey authority and depth.
+- Employ medium purples for main content areas and interactive elements.
+- Utilize lighter purples and mauves for backgrounds, highlights, and to create contrast with darker shades.
+- Combine various shades to create depth and visual interest in designs, infographics, and presentations.
+
 ## Grayscale Pallet
 
 Our grayscale palette complements the primary purple tones, embodying our commitment to boldness, minimalism, and sharpness. These neutral shades provide a sophisticated backdrop that allows our primary colors to stand out when needed, while maintaining a professional and serious aesthetic.
@@ -161,12 +168,3 @@ Our grayscale palette complements the primary purple tones, embodying our commit
 5. **Combining with Primary Colors**:
     - Use grayscale as the dominant palette.
     - Introduce purple accents strategically for emphasis and brand recognition.
-
-By leveraging this comprehensive grayscale palette, ISK maintains a sophisticated, minimalist aesthetic that aligns with our design philosophy of boldness and sharpness, while providing a versatile foundation for all our visual communications.
-
-## Usage Guidelines
-
-- Use deeper purples for primary elements and to convey authority and depth.
-- Employ medium purples for main content areas and interactive elements.
-- Utilize lighter purples and mauves for backgrounds, highlights, and to create contrast with darker shades.
-- Combine various shades to create depth and visual interest in designs, infographics, and presentations.
