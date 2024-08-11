@@ -1,3 +1,0 @@
-# Colors 
-
-Start typing here...

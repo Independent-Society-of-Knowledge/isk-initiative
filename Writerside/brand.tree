@@ -2,24 +2,3 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="brand"
-                 name="ISK Branding"
-                 start-page="isk-branding.md">
-
-    <toc-element topic="isk-branding.md"/>
-    <toc-element topic="Brand-Overview.md"/>
-    <toc-element topic="Brand-Identity.md">
-        <toc-element topic="Logo.md"/>
-        <toc-element topic="Colors.md"/>
-        <toc-element topic="Typography.md"/>
-    </toc-element>
-    <toc-element topic="Visual-Elements.md">
-        <toc-element topic="Graphics.md"/>
-        <toc-element topic="Iconography.md"/>
-        <toc-element topic="Imagery.md"/>
-    </toc-element>
-    <toc-element topic="Brand-Voice-and-Tone.md">
-        <toc-element topic="Message.md"/>
-        <toc-element topic="Voice-and-Tone.md"/>
-    </toc-element>
-</instance-profile>

@@ -1,3 +1,0 @@
-# Imagery
-
-Start typing here...

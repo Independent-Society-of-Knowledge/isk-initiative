@@ -1,4 +1,4 @@
-# Publich Outreach
+# Public Outreach
 
 
 The Independent Society of Knowledge (ISK) is committed to raising its profile and increasing public awareness of its mission, values, and activities. Public outreach is a vital component of our strategy to engage with a broader audience and promote our core principles of decentralization, collaboration, and open access.

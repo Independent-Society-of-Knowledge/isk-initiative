@@ -1,3 +1,0 @@
-# Collaboration Platforms
-
-Start typing here...

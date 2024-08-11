@@ -1,3 +1,0 @@
-# Iconography
-
-Start typing here...

@@ -1,3 +1,0 @@
-# Documentation Standards
-
-Start typing here...

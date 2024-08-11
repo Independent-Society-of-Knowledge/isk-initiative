@@ -1,3 +1,0 @@
-# Future Vision and Goals
-
-Start typing here...

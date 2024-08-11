@@ -13,6 +13,15 @@
         <toc-element topic="Collaboration.md"/>
         <toc-element topic="Open-Access.md"/>
     </toc-element>
+    <toc-element topic="Identity.md">
+        <toc-element topic="Brand-Overview.md"/>
+        <toc-element topic="Color.md"/>
+        <toc-element topic="Typography.md"/>
+        <toc-element topic="Design-Principles.md">
+        </toc-element>
+        <toc-element topic="image-examples.md"/>
+        <toc-element topic="Logo.md"/>
+    </toc-element>
     <toc-element topic="Membership-Policies.md">
         <toc-element topic="Collaborators.md"/>
         <toc-element topic="Official-Members.md"/>
@@ -21,11 +30,11 @@
             <toc-element topic="Application-Process.md"/>
             <toc-element topic="Evaluation-Criteria.md"/>
         </toc-element>
-        <toc-element topic="Community-Engagement.md">
-            <toc-element topic="Publich-Outreach.md"/>
-            <toc-element topic="Awareness-Campaigns.md"/>
-            <toc-element topic="Collaboration-with-Other-Organizations.md"/>
-        </toc-element>
+    </toc-element>
+    <toc-element topic="Community-Engagement.md">
+        <toc-element topic="Publich-Outreach.md"/>
+        <toc-element topic="Awareness-Campaigns.md"/>
+        <toc-element topic="Collaboration-with-Other-Organizations.md"/>
     </toc-element>
     <toc-element topic="Projects-and-Initiatives.md">
         <toc-element topic="Initiatives.md"/>

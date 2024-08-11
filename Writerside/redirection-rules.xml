@@ -222,4 +222,72 @@
         <description>Created after removal of "Empty XML Topic" from ISK Branding</description>
         <accepts>Empty-XML-Topic.html</accepts>
     </rule>
+    <rule id="6db397ea">
+        <description>Created after removal of "Logo" from ISK Branding</description>
+        <accepts>Logo.html</accepts>
+    </rule>
+    <rule id="78caa356">
+        <description>Created after removal of "Colors" from ISK Branding</description>
+        <accepts>Colors.html</accepts>
+    </rule>
+    <rule id="4c10168">
+        <description>Created after removal of "Typography" from ISK Branding</description>
+        <accepts>Typography.html</accepts>
+    </rule>
+    <rule id="22ff180">
+        <description>Created after removal of "Graphics" from ISK Branding</description>
+        <accepts>Graphics.html</accepts>
+    </rule>
+    <rule id="4348ac00">
+        <description>Created after removal of "Iconography" from ISK Branding</description>
+        <accepts>Iconography.html</accepts>
+    </rule>
+    <rule id="699529b5">
+        <description>Created after removal of "Imagery" from ISK Branding</description>
+        <accepts>Imagery.html</accepts>
+    </rule>
+    <rule id="4f136124">
+        <description>Created after removal of "Message" from ISK Branding</description>
+        <accepts>Message.html</accepts>
+    </rule>
+    <rule id="503402a6">
+        <description>Created after removal of "Voice and Tone" from ISK Branding</description>
+        <accepts>Voice-and-Tone.html</accepts>
+    </rule>
+    <rule id="4300ca35">
+        <description>Created after removal of "Overview" from ISK Branding</description>
+        <accepts>isk-branding.html</accepts>
+    </rule>
+    <rule id="5b7691fb">
+        <description>Created after removal of "Introduction" from ISK Branding</description>
+        <accepts>Brand-Overview.html</accepts>
+    </rule>
+    <rule id="45d309cb">
+        <description>Created after removal of "Brand Identity" from ISK Branding</description>
+        <accepts>Brand-Identity.html</accepts>
+    </rule>
+    <rule id="3786a211">
+        <description>Created after removal of "Logo" from ISK Branding</description>
+        <accepts>Logo.html</accepts>
+    </rule>
+    <rule id="4ebdc659">
+        <description>Created after removal of "Colors" from ISK Branding</description>
+        <accepts>Colors.html</accepts>
+    </rule>
+    <rule id="262ca6bd">
+        <description>Created after removal of "Typography" from ISK Branding</description>
+        <accepts>Typography.html</accepts>
+    </rule>
+    <rule id="5091f5cb">
+        <description>Created after removal of "Visual Elements" from ISK Branding</description>
+        <accepts>Visual-Elements.html</accepts>
+    </rule>
+    <rule id="f836f30">
+        <description>Created after removal of "Brand Voice and Tone" from ISK Branding</description>
+        <accepts>Brand-Voice-and-Tone.html</accepts>
+    </rule>
+    <rule id="130aaf9d">
+        <description>Created after removal of "Branding" from ISK Initiative</description>
+        <accepts>Branding.html</accepts>
+    </rule>
 </rules>

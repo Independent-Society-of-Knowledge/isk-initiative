@@ -1,0 +1,2 @@
+# Identity
+The _Independent Society of Knowledge_ is committed to fostering a decentralized, collaborative academic environment that prioritizes Open Access to knowledge. Our mission is to promote diversity, accessibility, and recognition within the scientific community. This section focuses on developing and refining the identity and branding of our organization.

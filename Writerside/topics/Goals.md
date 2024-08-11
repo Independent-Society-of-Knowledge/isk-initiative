@@ -1,3 +1,0 @@
-# Goals
-
-Start typing here...
