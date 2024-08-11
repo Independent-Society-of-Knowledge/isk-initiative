@@ -54,6 +54,116 @@ Named after the beautiful flowering vine, this light purple can symbolize the gr
 
 These two mauve shades provide subtle, sophisticated options for backgrounds or text. They can help create a sense of calm and thoughtfulness in our designs.
 
+## Grayscale Pallet
+
+Our grayscale palette complements the primary purple tones, embodying our commitment to boldness, minimalism, and sharpness. These neutral shades provide a sophisticated backdrop that allows our primary colors to stand out when needed, while maintaining a professional and serious aesthetic.
+
+### Dark Gray pallet
+
+
+- **Black No.1 (#000000)**: Pure black, used for text and critical graphic elements.
+![black-color.png](black-color.png)
+- **Black No.2 (#060606)**: A slightly softer black, ideal for large dark areas without the harshness of pure black.
+![Black-second-color.png](Black-second-color.png)
+- **Night (#0C0C0C)**: A deep charcoal, perfect for creating depth in designs.
+![Night-color.png](Night-color.png)
+
+#### Eerie Black Series
+- **Eerie Black No.1 (#181818)**: A rich, dark gray for sophisticated backgrounds.
+
+![Eerie-black-first-color.png](Eerie-black-first-color.png)
+
+- **Eerie Black No.2 (#242424)**: Slightly lighter, used for secondary dark elements.
+
+![Eerie-black-second-color.png](Eerie-black-second-color.png)
+
+- **Jet (#303030)**: A medium-dark gray, balancing between black and mid-tones.
+
+![jet-color.png](jet-color.png)
+
+- **Onyx (#3C3C3C)**: A versatile dark gray, ideal for text on light backgrounds.
+
+![onyx-color.png](onyx-color.png)
+
+- **Davy's Gray No.1 (#484848)**: A classic mid-tone gray for body text and UI elements.
+
+![davys-gray-color.png](davys-gray-color.png)
+
+- **Davy's Gray No.2 (#545454)**: A lighter option for extended reading comfort.
+
+![davys-gray-second-color.png](davys-gray-second-color.png)
+
+- **Dim Gray No.1 (#606060)**: A balanced gray for secondary information.
+
+![dim-gray-first-color.png](dim-gray-first-color.png)
+
+### Light Gray Pallet
+- **Dim Gray No.2 (#717171)**: Subtle enough for backgrounds, strong enough for text.
+
+![dim-gray-second-color.png](dim-gray-second-color.png)
+
+- **Battleship Gray No.1 (#888888)**: A medium-light gray for subtle emphasis.
+
+![battleship-gray-first-color.png](battleship-gray-first-color.png)
+
+- **Battleship Gray No.2 (#9C9C9C)**: Ideal for borders and dividers.
+
+![battleship-gray-second-color.png](battleship-gray-second-color.png)
+
+- **Gray (#C7C7C7)**: A light gray for backgrounds and less prominent elements.
+
+![gray-color.png](gray-color.png)
+
+- **Silver (#B0B0B0)**: A metallic-inspired tone for accents and highlights.
+
+![silver-color.png](silver-color.png)
+
+- **Timber Wolf (#D8D8D8)**: An off-white for softer contrast against pure white.
+
+![timberwolf-color.png](timberwolf-color.png)
+
+- **Anti-Flash White (#ECECEC)**: Nearly white, used for subtle backgrounds.
+
+![anti-flash-white-color.png](anti-flash-white-color.png)
+
+- **Seasalt No.1 (#F6F6F6)** and **Seasalt No.2 (#FAFAFA)**: Ultra-light grays for nuanced white spaces.
+
+![seasalt-first-color.png](seasalt-first-color.png)
+
+
+![seasalt-second-color.png](seasalt-second-color.png)
+
+- **White (#FFFFFF)**: Pure white for maximum contrast and clean design elements.
+
+![white-color.png](white-color.png)
+
+## Usage Guidelines {id="usage-guidelines_1"}
+
+1. **Text Hierarchy**:
+    - Use darker grays (Black to Jet) for primary text.
+    - Employ mid-tones (Davy's Gray series) for body copy.
+    - Utilize lighter grays for secondary or tertiary information.
+
+2. **Backgrounds**:
+    - Dark backgrounds (Eerie Black to Onyx) for dramatic effect.
+    - Mid-tones for neutral, professional layouts.
+    - Light grays and whites for clean, open designs.
+
+3. **UI Elements**:
+    - Darker grays for buttons and interactive elements.
+    - Mid-tones for borders and dividers.
+    - Light grays for form fields and subtle separators.
+
+4. **Contrast and Accessibility**:
+    - Ensure sufficient contrast between text and background colors.
+    - Use the full range of grays to create depth and hierarchy without relying solely on color.
+
+5. **Combining with Primary Colors**:
+    - Use grayscale as the dominant palette.
+    - Introduce purple accents strategically for emphasis and brand recognition.
+
+By leveraging this comprehensive grayscale palette, ISK maintains a sophisticated, minimalist aesthetic that aligns with our design philosophy of boldness and sharpness, while providing a versatile foundation for all our visual communications.
+
 ## Usage Guidelines
 
 - Use deeper purples for primary elements and to convey authority and depth.
