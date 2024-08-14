@@ -23,6 +23,7 @@
         <toc-element topic="Logo.md"/>
     </toc-element>
     <toc-element topic="Membership-Policies.md">
+        <toc-element topic="Code-of-Conduct.md"/>
         <toc-element topic="Collaborators.md"/>
         <toc-element topic="Official-Members.md"/>
         <toc-element topic="Executive-Members.md"/>
